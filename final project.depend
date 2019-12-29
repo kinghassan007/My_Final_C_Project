@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1554645357 source:c:\users\pc\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1554646039 source:c:\users\pc\desktop\final project\function.c
+	"structure.h"
+	<string.h>
+
+1554638550 c:\users\pc\desktop\final project\structure.h
+
+1554644075 c:\users\pc\desktop\final project\function.h
+	"structure.h"
+
+1572029700 source:f:\c\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1554644076 f:\c\final project\function.h
+	"structure.h"
+
+1554638552 f:\c\final project\structure.h
+
